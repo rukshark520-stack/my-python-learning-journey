@@ -1,0 +1,2 @@
+print("HELLO WORLD")
+print(" I AM RUKSHAR KHATOON")
